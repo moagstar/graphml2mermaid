@@ -7,6 +7,7 @@ authors = ["Daniel Bradburn"]
 [tool.poetry.dependencies]
 python = "^3.8"
 networkx = "^2.8"
+click = "^8.1.3"
 
 [tool.poetry.dev-dependencies]
 
